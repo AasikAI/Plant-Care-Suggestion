@@ -16,7 +16,7 @@ This repository contains a web application designed to provide plant care sugges
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ramana-C/Plant-Care-Suggession.git
+   git clone https://github.com/AasikAI/Plant-Care-Suggestion.git
    cd Plant-Care-Suggession
    ```
 
